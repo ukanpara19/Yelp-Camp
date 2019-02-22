@@ -1,7 +1,7 @@
 # YelpCamp Development (In Progress..)
 A full-stack Node.js project with RESTful routing
 
-Link : https://infinite-springs-32065.herokuapp.com/campgrounds
+Link : https://infinite-springs-32065.herokuapp.com/
 ## Initial Setup
 * Add Landing Page
 * Add Campgrounds Page that lists all campgrounds
